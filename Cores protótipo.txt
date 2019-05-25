@@ -1,0 +1,9 @@
+Hexadecimal-cores protótipo:
+
+Branco: #FFFFFF
+
+Verde-Botões: #28A745
+
+Azul-cabeçalho: #007FFF
+
+Azul-Botões: #007BFF
