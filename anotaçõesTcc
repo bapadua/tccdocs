@@ -1,0 +1,48 @@
+Hexadecimal-cores protótipo:
+
+Branco: #FFFFFF
+
+Verde-Botões: #28A745
+
+Azul-Botões: #007BFF;87j
+
+Azul-cabeçalho: #007FFF
+-------------------------------------------------------------------------------------------------------------------
+
+Usuário irá cadastrar o produto com o preço da diária, data limite, quando a mala não esta alugada ela esta ativa, no momento que a mala for retornada, ira perguntar pro alugante se quer ativar o produto novamente (mostrando a data limite) ou não. Numero de negociações que o alugador já fez, feedback da mala (com opções já feitas para escolher) e feedback do alugador para o alugante e alugante para o alugador (5 estrelas com descrição). O alugante ira decidir se vai levar a mala ate o outro usuario ou vai somente esperar  (mostrando o limite de km pra encontrar). Quando o alugante escolher o produto, ele ira mandar uma oferta, oferendo o numero de dias que ira alugar, a data de retirada do produto e a data da entrega final, onde o alugador ira ver as datas e aceitar receber ou nao nesses dias.
+
++Adicionar no tcc Lista de Figuras (adicionar imagens do getMalas e RentABag como exemplo).      DONE
+------------------------------------------------------------------------------------------------------------------
+
+1) A data que deseja receber a mala (é importante que você escolha receber com certa antecedência, cerca de 1 ou 2 dias antes da viagem pelo menos);
+2) A data da devolução (da mesma forma, considere devolver 1 dia após seu retorno para ter tempo de desfazer as malas e não pagar multas pelo atraso);
+------------------------------------------------------------------------------------------------------------------
+Prototipo xd: https://xd.adobe.com/view/02832d2b-6a6f-451f-54ab-ddcdb4af4f93-74b2/
+------------------------------------------------------------------------------------------------------------------
+- Pontuação de usuário - Estrelas
+
+- Perfil do anunciante na interna do produto - Nº de negociações e avalição
+
+- Perfil ofertante em anúncios - Nº de negociações e avalição
+
+- Tela de Feedback
+------------------------------------------------------------------------------------------------------------------
+Regra de Negocio-
+Minimo de 3 dias para alugar produto.
+Valor Minimo da diária e valor máximo da diária.
+O usuário que esta alugando a mala, ira receber a oferta na hora, se em 10 min ele nao responder, a oferta sera rejeitada, necessitando fazer outra oferta.
+Forma de pagamento somente cartão de credito.
+Localidade somente Cidade de São Paulo.
+Se o alugante cancelar antes de retirar o produto, ele ira pagar somente a taxa nossa de cancelamento.
+Se o produto ja foi retirado, não haverá forma de cancelar, nenhum dos usuários, pago o valor integral da negociação, mas podendo retornar o produto antes da data de devolução.
+Só poderá fazer oferta se o usuário já tiver uma cartão de credito cadastrado valido.
+Só poderá desativar a conta o usuário que não tiver neguma negociação ativa.
+---------------------------------------------------------------------------------------------------------------------- 
+Campos Obrigatório: Produto tem que ter 1 categoria.
+		   Tem que ter endereço atribuído.	
+		   CPF.
+		  Todos os Campos do Cartão de Crédito.	   	
+---------------------------------------------------------------------------------------------------------------------
+
+http://www.dca.fee.unicamp.br/~rubens/adesso/AdessoWeb/section4.html         -- site para consultar a visao geral do sistema
+----------------------------------------------------------------------------------------------------------------
