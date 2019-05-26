@@ -26,6 +26,10 @@ Prototipo xd: https://xd.adobe.com/view/02832d2b-6a6f-451f-54ab-ddcdb4af4f93-74b
 - Perfil ofertante em anúncios - Nº de negociações e avalição
 
 - Tela de Feedback
+
+- Tela de Oferta
+
+- Tela de Recebimento de Oferta
 ------------------------------------------------------------------------------------------------------------------
 Regra de Negocio-
 Minimo de 3 dias para alugar produto.
@@ -37,6 +41,7 @@ Se o alugante cancelar antes de retirar o produto, ele ira pagar somente a taxa 
 Se o produto ja foi retirado, não haverá forma de cancelar, nenhum dos usuários, pago o valor integral da negociação, mas podendo retornar o produto antes da data de devolução.
 Só poderá fazer oferta se o usuário já tiver uma cartão de credito cadastrado valido.
 Só poderá desativar a conta o usuário que não tiver neguma negociação ativa.
+Só poderá publicar o produto, se o usuário já tiver uma conta de recebimento cadastrada.
 ---------------------------------------------------------------------------------------------------------------------- 
 Campos Obrigatório: Produto tem que ter 1 categoria.
 		   Tem que ter endereço atribuído.	
