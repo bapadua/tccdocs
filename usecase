@@ -1,0 +1,23 @@
+ Nome do caso de uso: Cadastrar usuário administrador
+
+Estimulo: Se inicia quando o administrador, for realizar o cadastro de outros administradores
+
+Fluxo normal: 
+1-)O usuario deve acessar o link administrativo.
+2-)O sistema retornará a tela para login de administrador.
+3-)O ususario deve informar as suas credenciais.
+4-)O sistema valida as credenciais e redireciona o administrador para o dashboard de administrador.
+5-)O administrador clica em Administradores.
+6-)O administrador clica em Novo
+7-)O administrador preenche as informações do novo administrador.
+8-)O administrador clica em salvar.
+9-)O sistema habilita um novo administrador.
+
+Fluxo alternativo
+1-)O usuario informa credenciais inválidas, o sistema redireciona 
+
+Pós condição
+Um novo administrador é habilitado
+
+RF-01 Manter Administrador.
+
