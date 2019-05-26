@@ -37,6 +37,7 @@ Se o alugante cancelar antes de retirar o produto, ele ira pagar somente a taxa 
 Se o produto ja foi retirado, não haverá forma de cancelar, nenhum dos usuários, pago o valor integral da negociação, mas podendo retornar o produto antes da data de devolução.
 Só poderá fazer oferta se o usuário já tiver uma cartão de credito cadastrado valido.
 Só poderá desativar a conta o usuário que não tiver neguma negociação ativa.
+Só poderá publicar o produto, se o usuário já tiver uma conta de recebimento cadastrada.
 ---------------------------------------------------------------------------------------------------------------------- 
 Campos Obrigatório: Produto tem que ter 1 categoria.
 		   Tem que ter endereço atribuído.	
