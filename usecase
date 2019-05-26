@@ -1440,79 +1440,144 @@ Pós-condição:
 RF:
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+Nome do caso de uso: Usuario desativado reativa a conta.
+Ponto de ativação: Um usuário com perfil desativado acessa a aplicação e realiza o 
+RF16
+Ator: Usuario cadastrado.
+Objetivo: Reabilitar um usuário que desativou a sua conta anteriormente.
+Pré-condição: Possuir um cadastro desativado.
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+1-) O usuario informa suas credenciais, e clica em "Entrar".
+2-) O sistema retorna uma mengem de confirmação, "Deseja reativar a sua conta?".
+3-) O usuario clica em "sim".
+4-) O sistema redireciona para a lista de produtos.
+
+Pós-condição: O usuário reativa seu cadastro, e tem seus acessos.
+RF: RF16
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+Nome do caso de uso: Manutenção de usuário
+Ponto de ativação: O usuário acessa o site, e clica no botão "cadastre-se".
+Ator: Usuário visitante, Usuário cadastrado.
+Objetivo: Incluir o novo usuário no sistema 
+Pré-condição: 
+
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+1-)O usuário preenche o formulário com suas informações para cadastro, informando seu
+email e cpf.
+2-)O sistema envia um e-mail para o endereço informado, com um link para realizar o cadastro.
+3-)O usuário acessa o link e completa seu cadastro.
+4-)O sistema libera os privilegios de usuário cadastrado.
+Fluxo alternativo Usuario informa email, cpf inválido:
+1-)O usuário informa um email ou cpf inválido.
+2-)O sistema nega o cadastro e informa o usuário que os dados não são válidos.
+
+Fluxo alternativo Usuário atualiza informações:
+1-)O usuário acessa o link "Perfil", atualiza suas informações e clica em "salvar".
+2-)O sistema retorna a mensagem "Salvo com sucesso."??
+
+Fluxo alternativo Usuário desativa a sua conta:
+1-)O usuário acessa as opções de perfil, e clica em "desativar conta".
+2-)O sistema solicita a confirmação através de senha e desabilita a conta do usuário,
+retornando a mensagem "Para reativar basta fazer o login, informando login e senha. Conta desativada com sucesso."
+Pós-condição: O usuário é atualizado no sistema.
+RF: RF16
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
-Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+Nome do caso de uso: Usuario visitante
+Ponto de ativação: O usuario acessa a aplicação web.
+Ator: Usuario visitante.
+Objetivo: Apresentar uma lista de produtos
+Pré-condição: -
+Fluxo normal: 
+1-)O usuario acessa a aplicação. e visualiza uma lista de produtos, com a foto, valor da diária,
+cidade em que o produto se encontra, e visualiza as opções de cadastro e busca de produtos.
+Fluxo alternativo o usuario seleciona um produto:
+1-)O usuario seleciona um produto da lista.
+2-)O sistema, redireciona o usuario para a tela de cadastro de usuário/login
+3-)O usuário se cadastra, ou faz o login para acessar os detalhes.RF02, RF16
+4-)O sistema libera os detalhes do produto
+
+Pós-condição: 
+O usuário passa a ter cadastro e acesso ao sistema.
+RF: RF14, RF16
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+Nome do caso de uso: Manter tipos de material de fabricação de produtos.
+Ponto de ativação: O administador acessa o painel administrativo, clica na aba "Tipos de material".
+Ator: Usuario Administrador.
+Objetivo: Realizar a manutenção da lista materiais de fabricação dos produtos.
+Pré-condição: Ter um nome de material válido.
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+1-) O administrador clica em "+ Novo", preenche o nome do novo material e clica em "Salvar".
+2-) O sistema retorna uma mensagem "Salvo com sucesso".
+
+Fluxo alternativo nome já existe na lista: 
+1-) O administrador clica em "+ Novo", preenche o nome do novo material e clica em "Salvar".
+2-) O sistema retorna uma mensagem "O material já existe."
+Fluxo alternativo excluir um material da lista:
+1-) O administrador seleciona a linha do material e clica no icone "Lixeira".
+2-) O sistema retorna uma mensagem de confirmação "Deseja excluir?"
+3-) O usuario confirma.
+4-) O sistema atualiza a lista de materiais.
+Pós-condição: O sistema atualiza a lista de materiais.
+RF: RF02
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+Nome do caso de uso: Manter marcas de produtos.
+Ponto de ativação: O administrador acessa o painel administrativo, clica na aba marcas.
+Ator: Usuario administrador.
+Objetivo: Fazer a manutenção de marcas cadastradas.
+Pré-condição: Possuir acesso ao painel administrativo.
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
+1-)O administrador clica em "+ Novo", preenche o formulário, e clica em "salvar".
+2-)O sistema retorna uma mensagem de "Salvo com sucesso."
+
+Fluxo alternativo marca de produto já existe:
+1-)O administrdor informa uma marca já existente e clica em salvar.
+2-)O sistema retorna a mensagem de erro, informando que a categoria já existe.
+
+Fluxo alternativo editar marca de produto:
+1-)O administador seleciona a linha da marca e clica em "editar", atualiza as informações
+e clica no botão "Salvar".
+2-)O sistema retorna a mensagem, "Atualizado com sucesso".
 Pós-condição:
-RF:
+Atualiza a lista de marcas de produtos.
+RF: RF02, RF04
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
-Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
+Nome do caso de uso: Manter categorias de produtos.
+
+Ponto de ativação: Um administrador deseja incluir, alterar ou excluir uma categoria.
+Ator: Usuario administrador
+Objetivo: Fazer a manutenção de categorias válidas para o sistema.
+Pré-condição: Ter acesso ao painel administrativo.
+Fluxo normal incluir categoria:
+1-)O administrador seleciona a aba categorias, clica em novo, preenche os dados da categoria, 
+e clica em salvar.
+2-)O sistema retorna uma mensagem "Categoria incluida com sucesso."
+
+Fluxo alternativo editar categoria:
+1-)O administrador seleciona a aba categorias, seleciona a categoria da lista de categorias.
+2-)O sistema direciona o usuario pra tela de edição de categorias.
+3-)O usuário atualiza as informações de categoria, e clica em salvar.
+4-)O sistema retorna uma mensagem, de confirmação.
+5-)O usuário confirma as alterações.
+6-)O sistema retorna a mensagem "Alterado com sucesso."
+
+Fluxo alternativo excluir categoria:
+1-)O administrador acessa a lista de categorias, e clica no icone de "lixeira".
+2-)O sistema retorna uma mensagem de confirmação, "deseja excluir categoria?".
+3-)O administrador confirma a exclusão da categoria.
+4-)O sistema exclui a categoria.
+
 Pós-condição:
-RF:
+O sistema atualiza a lista de categorias.
+
+RF: RF02, RF03
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: Habilitar usuario administrador
+Nome do caso de uso: Cadastrar usuario administrador
 Ponto de ativação: Um administrador acessa o painel de controle afim de habilitar outro
 administrador.
 
@@ -1523,28 +1588,29 @@ Objetivo: Habilitar um novo administrador para o sistema.
 Pré-condição: Possuir um e-mail válido.
 
 Fluxo normal:
-1-)O administrador executa o RF01, clica na aba administradores, clica no botão
+1-)O administrador clica na aba administradores, clica no botão
 novo, preenche com as informações do novo usuário, incluindo o seu cpf, e clica em salvar.
 2-)O sistema envia um link para o email cadastrado.
 3-)O novo administrador acessa o link, cadastra uma nova senha informa o seu cpf, e clica em salvar.
 4-)O sistema habilita o novo usuário, e envia uma mensagem "Usuário habilitado com sucesso".
 
-Fluxo alternativo email informado não pertence ao administrador:
-1-)O administrador executa o RF01, clica na aba administradores, clica no botão
+Fluxo alternativo: Email informado não pertence ao administrador:
+1-)O administrador clica na aba administradores, clica no botão
 novo, preenche com as informações do novo usuário, e clica em salvar.
 2-)O sistema envia um link para o email informado incorretamente.
 3-)O sistema não recebe a confirmação de cadastro em até 24 horas e exclui o cadastro.
 
-Fluxo alternativo email informado não pertence ao administrador:
-1-)O administrador executa o RF01, clica na aba administradores, clica no botão
+Fluxo alternativo: Usuario não autorizado acessa o link de cadastro de administrador.
+
+1-)O administrador clica na aba administradores, clica no botão
 novo, preenche com as informações do novo usuário, e clica em salvar.
 2-)O sistema envia um link para o email informado incorretamente.
-3-)O sistema não recebe a confirmação de cadastro em até 24 horas e exclui o cadastro.
+3-)O usuario acessa a tela de cadastro de senha, e preenche as informações
+para acesso ao painel administrativo.
+4-)O sistema valida o cpf informado, e bloqueia o cadastro do usuário.
 
-
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+Pós-condição: Um novo administrador é habilitado no sistema
+RF: RF01, RF02
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1571,7 +1637,7 @@ em contato com um administrador.
 
 Pós-condição: O usuário, recupera o acesso ao sistema.
 
-RF:
+RF: RF11
 RNF:
 -----------------------------------------------------------------------------------------------------
 
@@ -1597,7 +1663,7 @@ Fluxo alternativo recuperar senha:
 1-) Caso de uso recuperar senha.
 Pós-condição:
     O sistema redireciona o usuário para o painel administrativo com privilegios de acesso.
-RF: 01
+RF: RF02
 
 RNF:
 -----------------------------------------------------------------------------------------------------
