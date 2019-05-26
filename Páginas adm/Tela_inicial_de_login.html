@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Tela inicial de login</title>
+<style id="applicationStylesheet" type="text/css">
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	:root {
+		--web-view-ids: Tela_inicial_de_login;
+	}
+	#Tela_inicial_de_login * {
+		margin: 0;
+		padding: 0;
+	}
+	#Tela_inicial_de_login {
+		position: absolute;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		width: 1280px;
+		height: 800px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		opacity: 1;
+		--web-view-name: Tela inicial de login;
+		--web-view-id: Tela_inicial_de_login;
+		--web-enable-deep-linking: true;
+	}
+	#Ret_ngulo_1 {
+		opacity: 1;
+		fill: rgba(0,127,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ret_ngulo_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+	}
+	#Administra__o_XPTO {
+		opacity: 1;
+		position: absolute;
+		left: 49px;
+		top: 15px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 242px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Entrar {
+		opacity: 1;
+		position: absolute;
+		left: 587px;
+		top: 261px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 107px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 37px;
+		color: rgba(112,112,112,1);
+	}
+	#Login {
+		opacity: 1;
+		position: absolute;
+		left: 448px;
+		top: 368px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 80px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(112,112,112,1);
+	}
+	#Senha {
+		opacity: 1;
+		position: absolute;
+		left: 448px;
+		top: 494px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 86px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(112,112,112,1);
+	}
+	#Ret_ngulo_10 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ret_ngulo_10 {
+		position: absolute;
+		overflow: visible;
+		width: 387px;
+		height: 2px;
+		left: 447px;
+		top: 466px;
+	}
+	#Ret_ngulo_11 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ret_ngulo_11 {
+		position: absolute;
+		overflow: visible;
+		width: 387px;
+		height: 2px;
+		left: 447px;
+		top: 592px;
+	}
+	#Ret_ngulo_6 {
+		opacity: 1;
+		fill: rgba(40,167,69,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ret_ngulo_6 {
+		position: absolute;
+		overflow: visible;
+		width: 387px;
+		height: 47px;
+		left: 447px;
+		top: 623px;
+	}
+	#Entrar_A4_Text_5 {
+		opacity: 1;
+		position: absolute;
+		left: 597px;
+		top: 623px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 87px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#Esqueceu_sua_senha_ {
+		opacity: 1;
+		position: absolute;
+		left: 679px;
+		top: 504px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 156px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(0,123,255,1);
+	}
+	#Administra__o {
+		opacity: 1;
+		position: absolute;
+		left: 494px;
+		top: 175px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 294px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 43px;
+		color: rgba(112,112,112,1);
+	}
+	#example_example_com {
+		opacity: 1;
+		position: absolute;
+		left: 448px;
+		top: 427px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 281px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+	#____________ {
+		opacity: 1;
+		position: absolute;
+		left: 447px;
+		top: 551px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 138px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(112,112,112,1);
+	}
+</style>
+</head>
+<body>
+<div id="Tela_inicial_de_login">
+	<svg class="Ret_ngulo_1">
+		<rect id="Ret_ngulo_1" rx="0" ry="0" x="0" y="0" width="1280" height="63">
+		</rect>
+	</svg>
+	<div id="Administra__o_XPTO">
+		<span>Administração XPTO</span>
+	</div>
+	<div id="Entrar">
+		<span>Entrar</span>
+	</div>
+	<div id="Login">
+		<span>Login</span>
+	</div>
+	<div id="Senha">
+		<span>Senha</span>
+	</div>
+	<svg class="Ret_ngulo_10">
+		<rect id="Ret_ngulo_10" rx="0" ry="0" x="0" y="0" width="387" height="2">
+		</rect>
+	</svg>
+	<svg class="Ret_ngulo_11">
+		<rect id="Ret_ngulo_11" rx="0" ry="0" x="0" y="0" width="387" height="2">
+		</rect>
+	</svg>
+	<svg class="Ret_ngulo_6">
+		<rect id="Ret_ngulo_6" rx="20" ry="20" x="0" y="0" width="387" height="47">
+		</rect>
+	</svg>
+	<div id="Entrar_A4_Text_5">
+		<span>Entrar</span>
+	</div>
+	<div id="Esqueceu_sua_senha_">
+		<span>Esqueceu sua senha?</span>
+	</div>
+	<div id="Administra__o">
+		<span>Administração</span>
+	</div>
+	<div id="example_example_com">
+		<span>example@example.com</span>
+	</div>
+	<div id="____________">
+		<span>************</span>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>Dashboard</title>
+<style id="applicationStylesheet" type="text/css">
+	body {
+		margin: 0;
+		padding: 0;
+	}
+	:root {
+		--web-view-ids: Dashboard;
+	}
+	#Dashboard * {
+		margin: 0;
+		padding: 0;
+	}
+	#Dashboard {
+		position: absolute;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		width: 1280px;
+		height: 800px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		margin: 0;
+		padding: 0;
+		opacity: 1;
+		--web-view-name: Dashboard;
+		--web-view-id: Dashboard;
+		--web-enable-deep-linking: true;
+	}
+	#Componente_1___1 {
+		opacity: 1;
+		position: absolute;
+		width: 1280px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Ret_ngulo_1 {
+		opacity: 1;
+		fill: rgba(0,127,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ret_ngulo_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1280px;
+		height: 63px;
+		left: 0px;
+		top: 0px;
+	}
+	#Negocia__es {
+		opacity: 1;
+		position: absolute;
+		left: 661px;
+		top: 18px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 114px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Ofertas {
+		opacity: 1;
+		position: absolute;
+		left: 545px;
+		top: 19px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 65px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Reports {
+		opacity: 1;
+		position: absolute;
+		left: 429px;
+		top: 18px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 69px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Categorias {
+		opacity: 1;
+		position: absolute;
+		left: 826px;
+		top: 19px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 95px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Administra__o_XPTO {
+		opacity: 1;
+		position: absolute;
+		left: 49px;
+		top: 15px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 242px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#Usu_rios {
+		opacity: 1;
+		position: absolute;
+		left: 972px;
+		top: 18px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 77px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#Grupo_2 {
+		opacity: 1;
+		position: absolute;
+		width: 69px;
+		height: 41px;
+		left: 1193px;
+		top: 12px;
+		overflow: visible;
+	}
+	#Grupo_1 {
+		opacity: 1;
+		position: absolute;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Elipse_1 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Elipse_1 {
+		position: absolute;
+		overflow: visible;
+		width: 41px;
+		height: 41px;
+		left: 0px;
+		top: 0px;
+	}
+	#Ret_ngulo_2 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Ret_ngulo_2 {
+		position: absolute;
+		overflow: visible;
+		width: 20px;
+		height: 15px;
+		left: 11px;
+		top: 17px;
+	}
+	#Elipse_2 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Elipse_2 {
+		position: absolute;
+		overflow: visible;
+		width: 12px;
+		height: 12px;
+		left: 15px;
+		top: 9px;
+	}
+	#Pol_gono_1 {
+		opacity: 1;
+		fill: rgba(255,255,255,1);
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Pol_gono_1 {
+		transform: rotate(180deg);
+		overflow: visible;
+		position: absolute;
+		top: 14px;
+		left: 52px;
+		width: 17px;
+		height: 12px;
+	}
+	#Caminho_1 {
+		opacity: 1;
+		fill: transparent;
+		stroke: rgb(112, 112, 112);
+		stroke-width: 1px;
+		stroke-linejoin: miter;
+		stroke-linecap: butt;
+		stroke-miterlimit: 4;
+		shape-rendering: auto;
+	}
+	.Caminho_1 {
+		transform: matrix(1,0,0,1,0,0);
+		overflow: visible;
+		position: absolute;
+		top: 784.878px;
+		left: 1057.275px;
+		width: 0px;
+		height: 0px;
+	}
+	#Bem_vindo_a_administra__o_do_X {
+		opacity: 1;
+		position: absolute;
+		left: 251px;
+		top: 167px;
+		box-sizing: border-box;
+		margin: 0;
+		padding: 0;
+		overflow: visible;
+		width: 737px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 43px;
+		color: rgba(112,112,112,1);
+	}
+</style>
+</head>
+<body>
+<div id="Dashboard">
+	<div id="Componente_1___1">
+		<svg class="Ret_ngulo_1">
+			<rect id="Ret_ngulo_1" rx="0" ry="0" x="0" y="0" width="1280" height="63">
+			</rect>
+		</svg>
+		<div id="Negocia__es">
+			<span>Negociações</span>
+		</div>
+		<div id="Ofertas">
+			<span>Ofertas</span>
+		</div>
+		<div id="Reports">
+			<span>Reports</span>
+		</div>
+		<div id="Categorias">
+			<span>Categorias</span>
+		</div>
+		<div id="Administra__o_XPTO">
+			<span>Administração XPTO</span>
+		</div>
+		<div id="Usu_rios">
+			<span>Usuários</span>
+		</div>
+		<div id="Grupo_2">
+			<div id="Grupo_1">
+				<svg class="Elipse_1">
+					<ellipse id="Elipse_1" rx="20.5" ry="20.5" cx="20.5" cy="20.5">
+					</ellipse>
+				</svg>
+				<svg class="Ret_ngulo_2">
+					<rect id="Ret_ngulo_2" rx="3" ry="3" x="0" y="0" width="20" height="15">
+					</rect>
+				</svg>
+				<svg class="Elipse_2">
+					<ellipse id="Elipse_2" rx="6" ry="6" cx="6" cy="6">
+					</ellipse>
+				</svg>
+			</div>
+			<svg class="Pol_gono_1" viewBox="0 0 17 12">
+				<path id="Pol_gono_1" d="M 8.499999046325684 0 L 17 12 L 0 12 Z">
+				</path>
+			</svg>
+		</div>
+	</div>
+	<svg class="Caminho_1" viewBox="1401.275 651.878 1 1">
+		<path id="Caminho_1" d="M 1401.275268554688 651.8778686523438">
+		</path>
+	</svg>
+	<div id="Bem_vindo_a_administra__o_do_X">
+		<span>Bem vindo a administração do XPTO</span>
+	</div>
+</div>
+</body>
+</html>
