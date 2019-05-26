@@ -1392,54 +1392,91 @@ Pós-condição:
 RF:
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**CU013
+Nome do caso de uso: Manutenção de Cartões de usuario cadastrado.
+Ponto de ativação: O usuário acessa o seu menu Formas de pagamento,
+e clica em adicionar cartão de crédito "+".
+
+Ator: Usuario cadastrado
+Objetivo: Incluir uma nova forma de pagamento.
+Pré-condição: Possuir cadastro ativo.
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
+1-) O usuário acessa o menu de usuário, seleciona a opção formas de pagamento,
+seleciona "Adicionar", insere as informações do cartão de crédito, e clica em salvar.
+2-) O sistema retorna a mensagem "Salvo com sucesso".
+
+Fluxo alternativo :
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
+RF:RF40
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**CU012
+Nome do caso de uso: Usuario cadastrado busca um produto.
+Ponto de ativação: O usuario cadastrado clica em "Alugar um produto".
+Ator: Usuário cadastrado
+Objetivo: Mostrar uma lista de itens, que correspondem a busca do usuário.
+Pré-condição: Possuir um cadastro ativo.
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+1-)O usuário, clica em buscar produto, informa a data em que ele quer retirar o produto,
+e a data em que ele vai entregar o produto e a categoria do produto.
+2-)O sistema retorna uma lista com os produtos, disponíveis nas condições informadas.
+
+Fluxo alternativo Não existem produtos para as datas informadas:
+1-)O usuário, clica em buscar produto, informa a data em que ele quer retirar o produto,
+e a data em que ele vai entregar o produto e a categoria do produto.
+2-)O sistema retorna um aviso, informando que não existem produtos, para essas datas.
+
+Pós-condição: Disponibilizar uma lista de produtos.
+
+RF: RF18
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**CU011
+Nome do caso de uso: Manutenção de produtos.
+Ponto de ativação: O usuário cadastrado, acessa o seu menu de usuário, afim de disponibilizar
+um produto para aluguel.
+Ator: Usuário cadastrado
+Objetivo: Incluir um novo produto para alugar.
+Pré-condição: Possuir uma conta de recebimento cadastrada.
+
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+1-) O usuário cadastrado seleciona o menu "meus anuncios", seleciona "novo anúncio",
+preenche as informações do produto, seleciona um arquivo de imagem do produto, o periodo
+em que seu produto estará disponivel para locação, e clica em salvar.
+2-) O sistema retorna a mensagem "Produto salvo com sucesso".
+3-) O sistema redireciona para a pagina de detalhes do produto.
+
+Fluxo alternativo Usuário não informou campos obrigatóris do produto:
+1-)O usuário após preencher o cadastro, não preenche os campos obrigatórios do produto
+ e clica em salvar.
+2-)O sistema, informa ao usuario os campos, que devem ser preenchidos.
+
+Pós-condição: Um novo produto é disponibilizado, na lista de produtos.
+RF: RF18, RF42
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**CU010
+Nome do caso de uso: Usuario cadastrado cadastra uma conta de recebimento.
+Ponto de ativação: O usuário cadastrado deseja oferecer um produto para ser alugado,
+acessa seu perfil, e clica em adicionar conta bancaria.
+Ator: Usuário cadastrado.
+Objetivo: Cadastrar um meio de recebimento dos valores gerados pela locação do usuário.
+Pré-condição: Possuir uma conta bancaria ativa.
+
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
+1-) O usuário preenche as informações,numero do banco, agência, conta, tipo de conta, numero da conta,
+nome do titular da conta de recebimento, e clica em salvar.
+2-) O sistema informa que a conta foi  salva com sucesso.
+** Alertando que as informações de pagamento são responsabilidade do usuário.
+
+Pós-condição: O usuário possui um meio de recebimento dos valores gerados, pelo aluguel de seus
+produtos.
+
+RF: RF18, RF42
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**CU009
 Nome do caso de uso: Usuario desativado reativa a conta.
 Ponto de ativação: Um usuário com perfil desativado acessa a aplicação e realiza o 
 RF16
@@ -1453,9 +1490,10 @@ Fluxo normal:
 4-) O sistema redireciona para a lista de produtos.
 
 Pós-condição: O usuário reativa seu cadastro, e tem seus acessos.
-RF: RF16
+RF: RF18
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**CU008
 Nome do caso de uso: Manutenção de usuário
 Ponto de ativação: O usuário acessa o site, e clica no botão "cadastre-se".
 Ator: Usuário visitante, Usuário cadastrado.
@@ -1484,6 +1522,7 @@ Pós-condição: O usuário é atualizado no sistema.
 RF: RF16
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**CU007
 Nome do caso de uso: Usuario visitante
 Ponto de ativação: O usuario acessa a aplicação web.
 Ator: Usuario visitante.
@@ -1500,9 +1539,10 @@ Fluxo alternativo o usuario seleciona um produto:
 
 Pós-condição: 
 O usuário passa a ter cadastro e acesso ao sistema.
-RF: RF14, RF16
+RF: RF14, RF16, RF18
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**CU006
 Nome do caso de uso: Manter tipos de material de fabricação de produtos.
 Ponto de ativação: O administador acessa o painel administrativo, clica na aba "Tipos de material".
 Ator: Usuario Administrador.
@@ -1521,9 +1561,10 @@ Fluxo alternativo excluir um material da lista:
 3-) O usuario confirma.
 4-) O sistema atualiza a lista de materiais.
 Pós-condição: O sistema atualiza a lista de materiais.
-RF: RF02
+RF: RF02, RF27
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**CU005
 Nome do caso de uso: Manter marcas de produtos.
 Ponto de ativação: O administrador acessa o painel administrativo, clica na aba marcas.
 Ator: Usuario administrador.
@@ -1546,6 +1587,7 @@ Atualiza a lista de marcas de produtos.
 RF: RF02, RF04
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**CU004
 Nome do caso de uso: Manter categorias de produtos.
 
 Ponto de ativação: Um administrador deseja incluir, alterar ou excluir uma categoria.
@@ -1577,6 +1619,7 @@ O sistema atualiza a lista de categorias.
 RF: RF02, RF03
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**CU003
 Nome do caso de uso: Cadastrar usuario administrador
 Ponto de ativação: Um administrador acessa o painel de controle afim de habilitar outro
 administrador.
@@ -1613,7 +1656,7 @@ Pós-condição: Um novo administrador é habilitado no sistema
 RF: RF01, RF02
 RNF:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+**CU002
 Nome do caso de uso: Recuperar senha.
 Ponto de ativação: O usuário acessa a tela de login e não lembra de suas credenciais.
 Ator: Usuario administrador.
@@ -1640,7 +1683,7 @@ Pós-condição: O usuário, recupera o acesso ao sistema.
 RF: RF11
 RNF:
 -----------------------------------------------------------------------------------------------------
-
+**CU001
 Nome do caso de uso: Efetuar Login Administrador
 
 Ponto de ativação: Quando o usuário acessa o painel administrativo e o sistema
