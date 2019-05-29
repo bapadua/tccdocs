@@ -1332,8 +1332,9 @@ Pós-condição:
 REQUISITOS:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
+**UC018
+Nome do caso de uso: Usuario cadastrado recebe pedido de aluguel
+Ponto de ativação: O usuário recebe a notificação de que possui novos itens
 Ator:
 Objetivo: 
 Pré-condição:
@@ -1344,42 +1345,44 @@ Pós-condição:
 REQUISITOS:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**UC017
+Nome do caso de uso: Usuario cadastrado faz pedido de aluguel
+Ponto de ativação: O usuario cadastrado na tela de detalhes de um produto faz uma oferta
+Ator: Usuário cadastrado
+Objetivo: Iniciar uma negociação de produto
+Pré-condição: Usuário cadastrado
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
+1-) O usuario seleciona um produto, clica em fazer pedido.
+2-) O sistema registra o pedido e informa o dono do produto.
+
+Pós-condição: Criar um novo pedido de produto.
 REQUISITOS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**UC016
+Nome do caso de uso: Usuario bloqueado faz login na aplicação
+Ponto de ativação: O usuario com perfil bloqueado, acessa a aplicação com suas credenciais
+Ator: Usuário cadastrado
+Objetivo: O usuário bloqueado não acessa a aplicação com privilegios de usuário cadastrado.
+Pré-condição: O administrador ter bloqueado o perfil do usuário cadastrado.
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-REQUISITOS:
+1-) O usuário informa suas credenciais.
+2-) O sistema retorna a mensagem "perfil bloqueado."
+
+Pós-condição: O usuário possui seu email, e CPF bloqueado para cadastro.
+REQUISITOS: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **UC015 
-Nome do caso de uso: Usuario bloqueado faz login na aplicação.
-Ponto de ativação: O usuario bloqueado acessa a aplicação
+Nome do caso de uso: Usuario suspenso faz login na aplicação.
+Ponto de ativação: O usuario suspenso acessa a aplicação
 Ator: Usuario cadastrado
-Objetivo: Informar o usuário, que sua conta foi bloqueada/suspensa
+Objetivo: Informar o usuário, que sua conta foi suspensa
 Pré-condição: O administador bloqueia o perfil denunciado
 Fluxo normal:
-1-) 
-2-) 
-3-)
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-REQUISITOS:
+1-) O usuário informa suas credenciais
+2-) O sistema retorna uma mensagem informando que o perfil se encontra suspenso.
+
+Pós-condição: O usuário possui os mesmos privilegios de um usuário visitante.
+REQUISITOS: 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **UC014
 Nome do caso de uso: Administrador mantém perfis denunciados
@@ -1410,7 +1413,7 @@ seleciona "Adicionar", insere as informações do cartão de crédito, e clica e
 2-) O sistema retorna a mensagem "Salvo com sucesso".
 
 Fluxo alternativo :
-Fluxo alterna   tivo recuperar senha:
+Fluxo alternativo recuperar senha:
 Pós-condição:
 REQUISITOS:RF040
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
