@@ -8,8 +8,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 -----------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
@@ -21,8 +21,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -33,8 +33,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -45,8 +45,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -57,8 +57,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -69,8 +69,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -81,8 +81,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -93,8 +93,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -105,8 +105,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -117,8 +117,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -129,8 +129,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -141,8 +141,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -153,8 +153,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -165,8 +165,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -177,8 +177,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -189,8 +189,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -201,8 +201,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -213,8 +213,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -225,8 +225,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -237,8 +237,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -249,8 +249,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -261,8 +261,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -273,8 +273,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -285,8 +285,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -297,8 +297,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -309,8 +309,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -321,8 +321,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -333,8 +333,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -345,8 +345,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -357,8 +357,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -369,8 +369,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -381,8 +381,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -393,8 +393,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -405,8 +405,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -417,8 +417,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -429,8 +429,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -441,8 +441,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -453,8 +453,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -465,8 +465,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -477,8 +477,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -489,8 +489,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -501,8 +501,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -513,8 +513,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -525,8 +525,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -537,8 +537,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -549,8 +549,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -561,8 +561,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -573,8 +573,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -585,8 +585,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -597,8 +597,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -609,8 +609,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -621,8 +621,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -633,8 +633,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -645,8 +645,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -657,8 +657,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -669,8 +669,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -681,8 +681,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -693,8 +693,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -705,8 +705,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -717,8 +717,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -729,8 +729,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -741,8 +741,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -753,8 +753,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -765,8 +765,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -777,8 +777,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -789,8 +789,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -801,8 +801,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -813,8 +813,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -825,8 +825,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -837,8 +837,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -849,8 +849,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -861,8 +861,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -873,8 +873,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -885,8 +885,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -897,8 +897,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -909,8 +909,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -921,8 +921,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -933,8 +933,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -945,8 +945,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -957,8 +957,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -969,8 +969,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -981,8 +981,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -993,8 +993,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1005,8 +1005,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1017,8 +1017,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1029,8 +1029,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1041,8 +1041,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1053,8 +1053,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1065,8 +1065,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1077,8 +1077,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1089,8 +1089,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1101,8 +1101,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1113,8 +1113,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1125,8 +1125,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1137,8 +1137,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1149,8 +1149,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1161,8 +1161,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1173,8 +1173,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1185,8 +1185,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1197,8 +1197,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1209,8 +1209,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1221,8 +1221,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1233,8 +1233,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1245,8 +1245,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1257,8 +1257,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1269,8 +1269,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1281,8 +1281,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1293,8 +1293,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1305,8 +1305,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1317,8 +1317,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1329,8 +1329,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1341,8 +1341,8 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1353,8 +1353,7 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Nome do caso de uso: 
 Ponto de ativação: 
@@ -1365,34 +1364,39 @@ Fluxo normal:
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**UC015 
+Nome do caso de uso: Usuario bloqueado faz login na aplicação.
+Ponto de ativação: O usuario bloqueado acessa a aplicação
+Ator: Usuario cadastrado
+Objetivo: Informar o usuário, que sua conta foi bloqueada/suspensa
+Pré-condição: O administador bloqueia o perfil denunciado
 Fluxo normal:
+1-) 
+2-) 
+3-)
 Fluxo alternativo credenciais inválidas:
 Fluxo alternativo recuperar senha:
 Pós-condição:
-RF:
-RNF:
+REQUISITOS:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Nome do caso de uso: 
-Ponto de ativação: 
-Ator:
-Objetivo: 
-Pré-condição:
+**UC014
+Nome do caso de uso: Administrador mantém perfis denunciados
+Ponto de ativação: O administrador acessa o painel administrativo na aba denuncias
+Ator: Administrador, Usuario cadastrado.
+Objetivo: Controlar ações anomalas do usuário
+Pré-condição: Receber uma denúncia de um perfil
 Fluxo normal:
-Fluxo alternativo credenciais inválidas:
-Fluxo alternativo recuperar senha:
-Pós-condição:
-RF:
-RNF:
+1-) O sistema retorna uma lista de denúncias não verificadas.
+2-) O administrador verifica se existem itens na lista de denuncias, clica na linha correspondente.
+3-) O sistema retorna o perfil denunciado.
+4-) O administrador após confirmar a denúncia bloqueia ou suspende o usuário.
+
+Pós-condição: O usuário denunciado, tem seu perfil suspenso, e é notificado ao efetuar o login
+REQUISITOS: RF002, RF007, RF006, RF008
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU013
+**UC013
 Nome do caso de uso: Manutenção de Cartões de usuario cadastrado.
 Ponto de ativação: O usuário acessa o seu menu Formas de pagamento,
 e clica em adicionar cartão de crédito "+".
@@ -1406,10 +1410,9 @@ seleciona "Adicionar", insere as informações do cartão de crédito, e clica e
 2-) O sistema retorna a mensagem "Salvo com sucesso".
 
 Fluxo alternativo :
-Fluxo alternativo recuperar senha:
+Fluxo alterna   tivo recuperar senha:
 Pós-condição:
-RF:RF40
-RNF:
+REQUISITOS:RF040
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **CU012
 Nome do caso de uso: Usuario cadastrado busca um produto.
@@ -1429,8 +1432,8 @@ e a data em que ele vai entregar o produto e a categoria do produto.
 
 Pós-condição: Disponibilizar uma lista de produtos.
 
-RF: RF18
-RNF:
+REQUISITOS: RF018
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **CU011
 Nome do caso de uso: Manutenção de produtos.
@@ -1453,8 +1456,7 @@ Fluxo alternativo Usuário não informou campos obrigatóris do produto:
 2-)O sistema, informa ao usuario os campos, que devem ser preenchidos.
 
 Pós-condição: Um novo produto é disponibilizado, na lista de produtos.
-RF: RF18, RF42
-RNF:
+REQUISITOS: RF018, RF042
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **CU010
 Nome do caso de uso: Usuario cadastrado cadastra uma conta de recebimento.
@@ -1473,10 +1475,10 @@ nome do titular da conta de recebimento, e clica em salvar.
 Pós-condição: O usuário possui um meio de recebimento dos valores gerados, pelo aluguel de seus
 produtos.
 
-RF: RF18, RF42
-RNF:
+REQUISITOS: RF18, RF42
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU009
+**UC009
 Nome do caso de uso: Usuario desativado reativa a conta.
 Ponto de ativação: Um usuário com perfil desativado acessa a aplicação e realiza o 
 RF16
@@ -1490,10 +1492,10 @@ Fluxo normal:
 4-) O sistema redireciona para a lista de produtos.
 
 Pós-condição: O usuário reativa seu cadastro, e tem seus acessos.
-RF: RF18
-RNF:
+REQUISITOS: RF18
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU008
+**UC008
 Nome do caso de uso: Manutenção de usuário
 Ponto de ativação: O usuário acessa o site, e clica no botão "cadastre-se".
 Ator: Usuário visitante, Usuário cadastrado.
@@ -1519,12 +1521,11 @@ Fluxo alternativo Usuário desativa a sua conta:
 2-)O sistema solicita a confirmação através de senha e desabilita a conta do usuário,
 retornando a mensagem "Para reativar basta fazer o login, informando login e senha. Conta desativada com sucesso."
 Pós-condição: O usuário é atualizado no sistema.
-RF: RF16
-RNF:
+REQUISITOS: RF016
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU007
+**UC007
 Nome do caso de uso: Usuario visitante
-Ponto de ativação: O usuario acessa a aplicação web.
+Ponto de ativação: O usuario acessa a aplicação.
 Ator: Usuario visitante.
 Objetivo: Apresentar uma lista de produtos
 Pré-condição: -
@@ -1539,10 +1540,9 @@ Fluxo alternativo o usuario seleciona um produto:
 
 Pós-condição: 
 O usuário passa a ter cadastro e acesso ao sistema.
-RF: RF14, RF16, RF18
-RNF:
+REQUISITOS: RF014, RF016, RF018
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU006
+**UC006
 Nome do caso de uso: Manter tipos de material de fabricação de produtos.
 Ponto de ativação: O administador acessa o painel administrativo, clica na aba "Tipos de material".
 Ator: Usuario Administrador.
@@ -1561,10 +1561,9 @@ Fluxo alternativo excluir um material da lista:
 3-) O usuario confirma.
 4-) O sistema atualiza a lista de materiais.
 Pós-condição: O sistema atualiza a lista de materiais.
-RF: RF02, RF27
-RNF:
+REQUISITOS: RF002, RF027
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU005
+**UC005
 Nome do caso de uso: Manter marcas de produtos.
 Ponto de ativação: O administrador acessa o painel administrativo, clica na aba marcas.
 Ator: Usuario administrador.
@@ -1584,10 +1583,9 @@ e clica no botão "Salvar".
 2-)O sistema retorna a mensagem, "Atualizado com sucesso".
 Pós-condição:
 Atualiza a lista de marcas de produtos.
-RF: RF02, RF04
-RNF:
+REQUISITOS: RF002, RF004
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU004
+**UC004
 Nome do caso de uso: Manter categorias de produtos.
 
 Ponto de ativação: Um administrador deseja incluir, alterar ou excluir uma categoria.
@@ -1616,11 +1614,10 @@ Fluxo alternativo excluir categoria:
 Pós-condição:
 O sistema atualiza a lista de categorias.
 
-RF: RF02, RF03
-RNF:
+REQUISITOS: RF002, RF003
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU003
-Nome do caso de uso: Cadastrar usuario administrador
+**UC003
+Nome do caso de uso: Manter usuario administrador
 Ponto de ativação: Um administrador acessa o painel de controle afim de habilitar outro
 administrador.
 
@@ -1653,10 +1650,9 @@ para acesso ao painel administrativo.
 4-)O sistema valida o cpf informado, e bloqueia o cadastro do usuário.
 
 Pós-condição: Um novo administrador é habilitado no sistema
-RF: RF01, RF02
-RNF:
+REQUISITOS: RF001, RF002
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**CU002
+**UC002
 Nome do caso de uso: Recuperar senha.
 Ponto de ativação: O usuário acessa a tela de login e não lembra de suas credenciais.
 Ator: Usuario administrador.
@@ -1680,10 +1676,9 @@ em contato com um administrador.
 
 Pós-condição: O usuário, recupera o acesso ao sistema.
 
-RF: RF11
-RNF:
+REQUISITOS: RF011
 -----------------------------------------------------------------------------------------------------
-**CU001
+**UC001
 Nome do caso de uso: Efetuar Login Administrador
 
 Ponto de ativação: Quando o usuário acessa o painel administrativo e o sistema
@@ -1706,7 +1701,5 @@ Fluxo alternativo recuperar senha:
 1-) Caso de uso recuperar senha.
 Pós-condição:
     O sistema redireciona o usuário para o painel administrativo com privilegios de acesso.
-RF: RF02
-
-RNF:
+REQUISITOS: RF002
 -----------------------------------------------------------------------------------------------------
